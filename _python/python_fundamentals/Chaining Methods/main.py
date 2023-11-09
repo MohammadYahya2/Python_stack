@@ -25,7 +25,7 @@ class User:
         else:
             print("Transfer not possible")
         return self
-
+0
 user1 = User("Raed", 200000)
 user2 = User("Mohamad", 10000)
 
