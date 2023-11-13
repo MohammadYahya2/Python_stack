@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(17, 17, 16);
+  }
+  table{
+margin:  0 auto;
+
+
+  }
+  h1{
+
+text-align: center;
+
+  }
+  th , td , tr{
+padding: 20px;
+text-align: center;
+  }
+  th{
+
+    background-color: aqua;
+  }
+  td{
+
+
+    background-color: rgb(225, 56, 56);
+
+  }
