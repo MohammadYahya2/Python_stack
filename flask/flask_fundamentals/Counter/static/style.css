@@ -1,0 +1,25 @@
+h1 {
+margin-left: 450px;
+margin-top: 150px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.times ,a{
+font-size: 25px;
+margin-left: 470px;
+margin-top: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+    display: inline-block;
+    background-color: #7b38d8;
+    padding: 20px;
+    width: 200px;
+    color: #ffffff;
+    text-align: center;
+    border: 4px double #cccccc; /* add this line */
+    border-radius: 10px; /* add this line */
+    font-size: 28px; /* add this line */
+
+
+}
